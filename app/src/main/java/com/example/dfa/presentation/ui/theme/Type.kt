@@ -1,4 +1,4 @@
-package com.example.dfa.ui.theme
+package com.example.dfa.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
