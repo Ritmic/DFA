@@ -1,9 +1,9 @@
-package com.example.dfa.presentation
+package com.example.dfa.commons.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.example.dfa.presentation.ui.theme.DFATheme
+import com.example.dfa.ui.theme.DFATheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
